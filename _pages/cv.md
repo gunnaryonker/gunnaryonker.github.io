@@ -29,10 +29,10 @@ Work experience
   * Coached and mentored players to foster personal growth and leadership skills both on and off the field.
 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2021 - Dec 2023 : Assistant Application Scientist - Chr. Hansen
+  * Collaborated with internal scientists and cross-functional teams to execute Product Development projects in a timely and efficient manner, utilizing Salesforce to define project parameters.
+  * Conducted experimental testing in accordance with Standard Operating Procedures (SOPs) and recorded results accurately in applicable protocols and databases.
+
   
 Skills
 ======
