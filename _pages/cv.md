@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Cybersecurity, University of Wisconsin-Whitewater, 2023
+  * Emphasis in Security Engineering - 4.0 GPA
+* B.S. in Biochemistry, University of Wisconsin-Madison, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March 2024 - Present : Wausau Supply Company - Helpdesk Level II
+  *	Provide first-rate technical support to users, effectively resolving IT issues and requests using Zendesk within established service level agreements.
+  * Utilized support tools, remote access, and internal documentation to identify, reproduce, and resolve technical issues promptly and efficiently.
+  * Supported Windows 10, OSX, and iOS platforms, as well as Microsoft Office 365 applications.
+  * Engaged in long-term IT projects outlined by special project charters, contributing to the enhancement and optimization of IT infrastructure and services.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* August 2022 - Present : D.C.Everest School District - JV1 Boys Soccer Head Coach
+  * Developed and implemented daily training sessions to enhance team performance and address areas of improvement.
+  * Coached and mentored players to foster personal growth and leadership skills both on and off the field.
+
 
 * Summer 2015: Research Assistant
   * Github University
@@ -34,31 +36,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cybersecurity Proficiency: Knowledge in threat detection and incident response procedures, with expertise in security technologies and solutions.
+*	Analytical Thinking: Advanced critical thinking for threat analysis and proactive risk mitigation.
+*	Continuous Learning: Committed to ongoing professional development and staying updated on cybersecurity trends.
+*	Effective Communication: Strong verbal/written skills for collaboration and incident documentation.
+*	Team Collaboration: Proven ability to work effectively in cross-functional teams.
+*	Commitment to Excellence: Dedicated to maintaining secure infrastructure and exceeding performance standards.
+*	Microsoft Applications: Familiar with Microsoft Azure, Microsoft Defender, Microsoft Intune, and Active Directory Domain Services
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
