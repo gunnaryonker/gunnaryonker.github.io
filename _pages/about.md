@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gunnar Yonker"
+title: "Gunnar Yonker Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
