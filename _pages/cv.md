@@ -13,7 +13,10 @@ Education
 ======
 * M.S. in Cybersecurity, University of Wisconsin-Whitewater, 2023
   * Emphasis in Security Engineering - 4.0 GPA
+  * [Master's Degree Class List](/masters/)
 * B.S. in Biochemistry, University of Wisconsin-Madison, 2020
+  * 3.2 GPA
+  * [Bachelor's Degree Class List](/bachelors/)
 
 Work experience
 ======
