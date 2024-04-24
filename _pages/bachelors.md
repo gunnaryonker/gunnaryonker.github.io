@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "B.S in Chemistry Class List"
+title: "B.S. in Chemistry Class List"
 permalink: /bachelors/
 author_profile: true
 ---
@@ -34,7 +34,7 @@ author_profile: true
     }
 </style>
 
-## Fall 2018-2019
+## Fall 2018
 
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
@@ -43,7 +43,7 @@ author_profile: true
 | CLASSICS 320       | The Greeks-Honors                                 |
 | HISTORY 347        | The Caribbean & its Diasporas                     |
 
-## Spring 2018-2019
+## Spring 2018
 
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
@@ -52,7 +52,7 @@ author_profile: true
 | NUTR SCI 332       | Human Nutritional Needs                           |
 | PHYSICS 207        | General Physics                                   |
 
-## Fall 2019-2020
+## Fall 2019
 
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
@@ -61,7 +61,7 @@ author_profile: true
 | MUSIC 113          | Music in Performance                              |
 | PHYSICS 208        | General Physics                                   |
 
-## Spring 2019-2020
+## Spring 2019
 
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
@@ -71,7 +71,7 @@ author_profile: true
 | ENVIR ST 471       | Intro-Environmental Health                        |
 | MUSIC 113          | Music in Performance                              |
 
-## Fall 2020-2021
+## Fall 2020
 
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
