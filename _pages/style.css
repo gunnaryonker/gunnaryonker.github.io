@@ -1,0 +1,18 @@
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; /* Adjust the gap between columns as needed */
+}
+
+.project-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.project-card h3 {
+    margin-top: 0;
+}
+
+.project-card p {
+    margin-bottom: 0;
+}

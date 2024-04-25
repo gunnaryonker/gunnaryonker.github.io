@@ -32,16 +32,16 @@ author_profile: true
 
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
-| CYBER 701          | SYS Fundmtls For Cybersec                         |
-| CYBER 730          | Ethical Hacking                                   |
-| CYBER 754          | Intrusion Prevent/Detect                          |
+| CYBER 701          | Systems Fundamentals For Cybersecurity                         |
+| CYBER 730          | Fundamentals of Ethical Hacking                                   |
+| CYBER 754          | Intrusion Prevention and Detection                         |
 
 ## Spring 2023
 
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
-| COMPSCI 755        | Crypto and Security Protocol                      |
-| CYBER 740          | Security and Privacy Law                          |
+| COMPSCI 755        | Cryptography and Security Protocols                      |
+| CYBER 740          | Cybersecurity and Privacy Law                          |
 | CYBER 742          | Computer Forensics                                |
 | CYBER 752          | Malware Reverse Engineering                       |
 
@@ -50,7 +50,7 @@ author_profile: true
 | Class #            | Class Name                                        |
 | ----------------- | ------------------------------------------------- |
 | COMPSCI 755        | Big Data and Data Mining                          |
-| CYBER 731          | Managing Cybersecurity                            |
+| CYBER 731          | Management of Information Assurance and Security                            |
 
 ## Fall 2023
 
