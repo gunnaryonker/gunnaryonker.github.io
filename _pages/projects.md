@@ -107,13 +107,10 @@ author_profile: true
         </div>
     </div>
 
-    <h2>Github Statistics</h2>
+    <h2></h2>
 
     <div style="display: flex; align-items: center;">
         <div style="flex: 1; margin-right: 10px;">
             <img src="https://github-readme-stats.vercel.app/api?username=gunnaryonker&show_icons=true&theme=dracula" alt="Gunnar's GitHub Stats">
         </div>
-        <div style="flex: 1;">
-            <a href="https://github.com/gunnaryonker/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnaryonker" alt="Top Languages">
            
