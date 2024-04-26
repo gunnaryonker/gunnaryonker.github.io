@@ -37,7 +37,15 @@ author_profile: true
 <div class="container">
 
     <h2>Personal Projects</h2>
-    <p>To Be Filled in...</p>
+    
+    <div class="projects-grid">
+        <!-- First column of three projects -->
+        <div class="project-card">
+            <h3><a href="https://github.com/gunnaryonker/simple-snake-game">simple-snake-game</a></h3>
+            <p>Snake game made in Python</p>
+        </div>
+
+    </div>
 
     <h2>Course Projects</h2>
 
