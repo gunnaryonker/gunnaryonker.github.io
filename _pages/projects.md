@@ -45,6 +45,10 @@ author_profile: true
             <p>Snake game made in Python</p>
         </div>
 
+    <div class="project-card">
+            <h3><a href="https://github.com/gunnaryonker/weather-app">weather-app</a></h3>
+            <p>Demonstration of how an API can be used to create a simple weather app</p>
+        </div>
     </div>
 
     <h2>Course Projects</h2>
@@ -117,8 +121,8 @@ author_profile: true
 
     <h2></h2>
 
-    <div style="display: flex; align-items: center;">
+    <!-- <div style="display: flex; align-items: center;">
         <div style="flex: 1; margin-right: 10px;">
             <img src="https://github-readme-stats.vercel.app/api?username=gunnaryonker&show_icons=true&theme=dracula" alt="Gunnar's GitHub Stats">
         </div>
-           
+            -->

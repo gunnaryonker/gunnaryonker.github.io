@@ -1,7 +1,8 @@
 ---
-title: "3D Priting"
-excerpt: "Elegoo Neptune 3 Pro<br/><img src='/images/500x300.png'>"
+title: "3D Printing"
+excerpt: "Elegoo Neptune 3 Pro"
 collection: portfolio
+image: /files/IMG_8082.jpg
 ---
 
-Fill with printer pictures.
+Elegoo Neptune 3 Pro
